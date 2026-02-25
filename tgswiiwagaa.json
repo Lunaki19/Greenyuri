@@ -5,6 +5,14 @@
   "author": "Arai Sumiko",
   "cover": "https://mangadex.org/covers/9d3d3403-1a87-4737-9803-bc3d99db1424/91935268-394e-4b25-ad34-355c5e2b9e75.jpg",
   "chapters": {
+    "113": {
+      "title": "Hijacker",
+      "volume": "4",
+      "last_updated": "1772063321",
+      "groups": {
+        "Rehashed Scans": "/proxy/api/mangadex/chapter/e06fae8d-e2a1-411a-8660-db404de7f2a1"
+      }
+    },
     "10.1": {
       "title": "The Two of Them After Being Caught in the Rain",
       "volume": "1",
@@ -43,6 +51,94 @@
       "last_updated": "1772062093",
       "groups": {
         "Rehashed Scans": "https://mangadex.org/chapter/aa58491f-b20a-4dd7-81f6-30052dcffd44/1"
+      }
+    },
+    "38.1": {
+      "title": "2013 > 2023",
+      "volume": "2",
+      "last_updated": "1772062555",
+      "groups": {
+        "Rehashed Scans": "https://mangadex.org/chapter/9831b92b-8f84-4e2f-ae0a-e9e84f1777a4/1"
+      }
+    },
+    "43.1": {
+      "title": "Moonlight Magazine Spring Edition",
+      "volume": "2",
+      "last_updated": "1772062622",
+      "groups": {
+        "Rehashed Scans": "https://mangadex.org/chapter/60ef49ce-fdff-487c-a5f7-7d51fd19086b/1"
+      }
+    },
+    "46.1": {
+      "title": "Moonlight Magazine Summer Edition",
+      "volume": "2",
+      "last_updated": "1772062678",
+      "groups": {
+        "Rehashed Scans": "/proxy/api/mangadex/chapter/3a04f79a-7314-4f19-8c67-b3f249731f2d"
+      }
+    },
+    "50.1": {
+      "title": "Moonlight Magazine Autumn Edition",
+      "volume": "2",
+      "last_updated": "1772062735",
+      "groups": {
+        "Rehashed Scans": "/proxy/api/mangadex/chapter/b105bffa-d607-4c24-95b1-36438119c1ed"
+      }
+    },
+    "61.1": {
+      "title": "Moonlight Magazine Winter Edition",
+      "volume": "2",
+      "last_updated": "1772062802",
+      "groups": {
+        "Rehashed Scans": "/proxy/api/mangadex/chapter/83ebcc9a-a50f-408c-a776-f41dfe6d15d2"
+      }
+    },
+    "83.1": {
+      "title": "Drama CD Mini Manga",
+      "volume": "3",
+      "last_updated": "1772062892",
+      "groups": {
+        "Rehashed Scans": "/proxy/api/mangadex/chapter/3a85f6ef-84ca-414c-a1e5-5fdf1e0e72ff"
+      }
+    },
+    "112.6": {
+      "title": "Moonlight Magazine - Spring 2025 Edition (Animate Shop Volume 3 Bonus)",
+      "volume": "3",
+      "last_updated": "1772063065",
+      "groups": {
+        "Rehashed Scans": "/proxy/api/mangadex/chapter/40fd9329-6749-4840-82cb-e152624c2237"
+      }
+    },
+    "112.7": {
+      "title": "Vol. 3 Extras : Moonlight Magazine 2025 : Summer Issue (Melonbooks)",
+      "volume": "3",
+      "last_updated": "1772063138",
+      "groups": {
+        "Rehashed Scans": "/proxy/api/mangadex/chapter/8eb5814c-5c0b-48b0-9846-a9a420513649"
+      }
+    },
+    "112.8": {
+      "title": "Moonlight Magazine - Autumn 2025 Edition (Gamers Shop Volume 3 Bonus)",
+      "volume": "3",
+      "last_updated": "1772063189",
+      "groups": {
+        "Rehashed Scans": "/proxy/api/mangadex/chapter/9738f87a-8f74-49a7-9e73-7a57a3f0aab1"
+      }
+    },
+    "112.9": {
+      "title": "Moonlight Magazine - Winter 2025 Edition (Tsutaya Shop Volume 3 Bonus)",
+      "volume": "3",
+      "last_updated": "1772063250",
+      "groups": {
+        "Rehashed Scans": "/proxy/api/mangadex/chapter/44a4f6f3-2a51-44cd-be90-3bd1ec1a3b5b"
+      }
+    },
+    "113.5": {
+      "title": "Manga Soundtrack Booklet + Sumiko Arai Interview",
+      "volume": "4",
+      "last_updated": "1772063376",
+      "groups": {
+        "Rehashed Scans": "/proxy/api/dynasty/chapter/the_guy_she_was_interested_in_wasnt_a_guy_at_all_ch113"
       }
     }
   }
